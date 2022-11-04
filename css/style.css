@@ -237,6 +237,20 @@ a{
 
 /* popular style end */
 
+/* map style start */
+
+.map{
+    padding-bottom: 100px;
+}
+
+.map__title{
+    margin-bottom: 46px;
+}
+
+
+
+/* map style end */
+
 
 
 
