@@ -289,6 +289,34 @@ a{
 
 /* about style end */
 
+/* gallery style start */
+
+.gallery{
+    padding: 50px 0 105px;
+    background: rgba(136, 98, 57, 1);
+    color: #fff;
+}
+
+.gallery__top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-right: 160px;
+}
+
+.gallery__link{
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: underline;
+}
+
+
+
+
+
+/* gallery style end */
+
 
 
 
