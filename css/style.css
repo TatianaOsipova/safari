@@ -379,15 +379,31 @@ a{
     line-height: 25px;
 }
 
-
-
-
-
-
-
-
-
 /* tour style end */
+
+/* booking style start */
+
+.booking{
+    background: #eaeaea;
+    padding: 75px 0;
+}
+
+.booking__title{
+    margin-bottom: 43px;
+}
+
+.booking__form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.booking__input{
+    
+}
+
+/* booking style end */
 
 
 
