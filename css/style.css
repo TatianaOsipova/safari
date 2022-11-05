@@ -104,6 +104,10 @@ a{
     margin-bottom: 20px;
 }
 
+.header__btn:hover{
+    box-shadow: inset 0 0 0 5px #ffa600;
+}
+
 .header__arrow{
     margin-left: 285px;
     margin-bottom: 15px;
@@ -435,6 +439,14 @@ a{
     color: #fff;
     padding: 19px 65px 20px;
     cursor: pointer;
+}
+
+.booking__btn:hover{
+    box-shadow: inset 0 0 0 5px #ffa600;
+}
+
+.booking__btn:active{
+    transition: all 0.3s;    
 }
 
 .booking__label{
