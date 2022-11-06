@@ -697,7 +697,7 @@ a {
 @media (max-width: 560px) {
     .header__title {
         font-size: 45px;
-        transform: translateY(-425%);
+        transform: translateY(-426%);
         color: #886239;
     }
 
