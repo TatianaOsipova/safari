@@ -696,7 +696,9 @@ a {
 
 @media (max-width: 560px) {
     .header__title {
-        font-size: 50px;
+        font-size: 45px;
+        transform: translateY(-425%);
+        color: #886239;
     }
 
     .menu__btn {
@@ -763,11 +765,7 @@ a {
         text-align: center;
         margin-bottom: 30px;
     }
-
-    .header__top {
-        /* justify-content: center; */
-    }
-
+    
     .header__phone-number {
         margin-left: 0;
     }
