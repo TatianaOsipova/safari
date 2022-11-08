@@ -701,8 +701,7 @@ a {
 @media (max-width: 560px) {
     .header__title {
         font-size: 45px;
-        transform: translateY(-426%);
-        color: #886239;
+        transform: translateY(-550%);        
     }
 
     .menu__btn {
@@ -755,7 +754,7 @@ a {
     }
 
     .menu__list.menu__list--active {
-        transform: translateY(0%);
+        transform: translateY(20%);
     }
 
     .menu__link {
