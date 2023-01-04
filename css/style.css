@@ -576,6 +576,10 @@ a {
 }
 
 @media (max-width: 990px) {
+    .header__descr{
+        color:#fff;
+    }
+
     .popular__link {
         min-height: 200px;
     }
