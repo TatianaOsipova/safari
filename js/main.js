@@ -9,8 +9,8 @@ $(function(){
 	});
 
 	$('.gallery__slider').slick({
-		prevArrow: '<button type="button" class="slick-btn slick-prev"><img src="../safari/images/arrow-left.svg" alt="arrow-left"></button>',
-		nextArrow: '<button type="button" class="slick-btn slick-next"><img src="../safari/images/arrow-right.svg" alt="arrow-right"></button>',
+		prevArrow: '<button type="button" class="slick-btn slick-prev"><img src="images/arrow-left.svg" alt="arrow-left"></button>',
+		nextArrow: '<button type="button" class="slick-btn slick-next"><img src="images/arrow-right.svg" alt="arrow-right"></button>',
 	});
 
 	$('.gallery__item-inner').magnificPopup({
